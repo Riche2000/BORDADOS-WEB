@@ -12,7 +12,7 @@ const Inicio = () => {
                 </h2>
                 <p className='text-stone-100 py-4 max-w-md'>Hacemos cualquier tipo de bordado personalizado para playeras, camisas, sudaderas, suertes y gorras con las mejores prácticas.</p>
                 <div>
-                <button className='grpup text-stone-50 w-fit px-6 py-6 my-2 flex items-center rounded-md bg-gradient-to-r from from-red-500 to-orange-400 cursor-pointer'>
+                <button className='group text-stone-50 w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-red-500 to-orange-400 cursor-pointer'>
                     Contáctanos
                     <span className='group-hover:rotate-90 duration-300'>
                     <RxDoubleArrowRight size={20} className='ml-1'/>

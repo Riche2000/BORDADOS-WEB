@@ -1,7 +1,9 @@
 import React from 'react'
 import imagen1 from '../components/Imagenes/Imagen1.png'
 import imagen2 from '../components/Imagenes/Imagen2.png'
-import imagen3 from '../components/Imagenes/Imagen3.png'    
+import imagen3 from '../components/Imagenes/Imagen3.png'
+
+ 
 
 const Trabajos = () => {
 
@@ -19,6 +21,7 @@ const Trabajos = () => {
           id: 3,
           src: imagen3,
         }
+        
     ];
 
   return (

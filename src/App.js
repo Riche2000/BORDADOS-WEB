@@ -1,7 +1,12 @@
+import Inicio from "./components/Inicio";
+import NavBar from "./components/NavBar";
+
+
 function App() {
   return (
     <div>
-      <h1 className="text-4xl font-bold font-signature">Bordados La Casita</h1>
+      <NavBar />
+      <Inicio />
     </div>
   );
 }

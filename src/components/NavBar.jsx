@@ -36,7 +36,7 @@ const NavBar = () => {
         </div>
 
         {nav &&(
-        <ul className='flex flex-col justify-center items-center absolute top-0 left-0 w-full h-screen bg-gradient-to-b from-gray-800 to-stone-400 text-white'>        
+        <ul className='flex flex-col justify-center items-center absolute top-0 left-0 w-full h-screen bg-gradient-to-b from-red-400 to-stone-200 text-white'> 
         {links.map(({id, link}) => (
         <li key={id} className='px-4 cursor-pointer capitalize py-6 text-4xl'>{link}</li>
         ))}                

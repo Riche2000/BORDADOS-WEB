@@ -25,7 +25,7 @@ const Trabajos = () => {
     ];
 
   return (
-    <div name='trabajos' className='bg-gradient-to-b from-red-200 via-red to-red-400 w-full text-stone-50 md:h-screen'>
+    <div name='trabajos' className='pt-24 pb-24 bg-gradient-to-b from-red-200 via-red to-red-400 w-full text-stone-50 md:h-screen'>
         <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-red-500'>Trabajos</p>

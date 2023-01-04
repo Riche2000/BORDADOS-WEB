@@ -11,7 +11,7 @@ const Inicio = () => {
                 <h2 className='text-4xl sm:text-7xl font-bold text-stone-50'>
                     Bordados La Casita.
                 </h2>
-                <p className='text-stone-100 py-4 max-w-md'>Hacemos cualquier tipo de bordado personalizado para playeras, camisas, sudaderas, suertes y gorras con las mejores prácticas.</p>
+                <p className='text-stone-100 py-4 max-w-md'>Hacemos cualquier tipo de bordado personalizado para playeras, camisas, sudaderas, suertes, uniformes, servilletas, toallas y gorras con las mejores prácticas.</p>
                 <div>
                 <Link to='contacto' smooth duration={500} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-red-500 to-orange-400 cursor-pointer">
                         Contáctanos 
